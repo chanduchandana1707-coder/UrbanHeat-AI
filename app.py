@@ -13,7 +13,7 @@ st.set_page_config(
 )
 
 # -------------------- PROJECT CONFIGURATION --------------------
-MODEL_PATH = Path("UrbanHeat_AI_Final_Model(15).pkl")
+MODEL_PATH = Path("UrbanHeat_AI_Final_Model (15).pkl")
 IMPORTANCE_PATH = Path("UrbanHeat_Feature_Importance.csv")
 MAP_PATH = Path("UrbanHeat_Map_Data.csv")
 
